@@ -1,0 +1,79 @@
+NINIRIM 6.0 Change Log
+Massive credits to Nanashi50 for helping with majority of this
+
+1. Added the following outfits:
+    a. Little Devil
+    b. Undead Doctor
+    c. Scarlet
+    d. 2019 Christmas
+    e. Atanis
+    f. Bless HV 0103
+    g. Zereth
+    h. Sexy Knit
+
+2. Fixed conformance issues with Bless 0022 Cuirass slutty
+
+3. Fixed shoulder clipping in Bless EC 0001Upper
+
+4. Fixed clipping of the back for Bless LT 0003 Upper
+
+5. Fixed right nipple clipping for Bless MD 0204 Upper Damaged
+
+6. Fixed conformance issue for nipple length on Bless MD 3002 Upper Damaged, Dressy Upper, and Dressy Upper Slutty
+
+7. Fixed nipple definition slider for Melkia Vaina Upper
+
+8. Optimized bone weighting for the scarf for MLB 0048 Upper and Upper Slutty
+
+9. Added an SMP version for Ananta
+
+10. Optimized the Ninirim museum by grouping all cells into one loadable cell.
+
+11. Added ground meshes for the following:
+     a. Bless 0001
+     b. Bless MD 0001
+     c. Bless MD 00004
+     d. Bless MD 0013
+     e. Bless MD 3001
+     f. Blacksmith
+     g. Dawley Syande
+     h. Karlstein
+     i. Kokoro
+     j. Bless MD 0007
+     k. Olier
+     l. Shining Will
+     m. Sister
+     n. Training Cube
+
+
+12. Added the black version of Cristal See-Through Lower. (texture set and textures were included but forgot to add it as an armor in the ESP)
+
+13. Bug found with the Olier hair. The path to the mesh was wrong. It is now corrected.
+
+14. The ArmA WeaponAdjust values made weapons float too far from the body. The ESP update sets ArmA WeaponAdjust to 0.0 for everything to fit closer to the body.
+
+15. Higher resolution textures for the metallic golden parts of the outfit stands. Texture was edited to be "darker" to make the gold stand out more.
+
+16. Added higher resolution textures for the photo frames. They won't look blurry anymore.
+
+17. Applies the CBBE Uniboob slider effect to 90% of the outfits. Most should start to look better now.
+
+18. Updated all main outfit pieces to the most recent CBBE body.
+
+19. Enabled weight slider for armor add-on objects that were missing it
+
+20. Fixed Dawley Syande having outfit pieces with different classes. (They are all now light armor)
+
+21. Fixed Blacksmith having outfit pieces with different classes. (They are all now heavy armor)
+
+22. Fixed Dalgaebi having outfit pieces with different classes. (They are all now heavy armor)
+
+23. Removed duplicate outfit pieces in the containers for 2019 Christmas and Bless MD 0102
+
+24. Added 4 new weapons for fun. They are unrelated to Ninirim's content.
+
+25. By popular request, added a smithing station at the museum. Most wanted to be able to craft the outfits at the museum
+
+26. By popular request, the mod now comes with an optional custom made recipe book. This recipe book will unlock all ninirim outfit recipes when the book is in your inventory. This will help reduce clutter in your smithing station menu.
+
+27. The museum can no longer be freely accessed. It now requires a custom made key to deter new files from getting overpowered weapons and armor at start.
