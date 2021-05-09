@@ -1,0 +1,101 @@
+Change Log for SunJeong's TAWOBA Remastered:
+This is a list of all changes compared to every other version of TAWOBA out there. I spent so much time on this mod to make it as perfect as possible.
+
+NEW FEATURES:
+
+1. Added support for non-physics bodies (removes XP32 requirement for this one)
+
+2. Added support for CBBE 3BAv2
+
+3. Added support for CBBE SMP
+
+4. CBBE normal physics version was updated with the most current CBBE body as of April 2020.
+
+5. Removed ALL old HDT Heels offset. Added new heels offsets for RaceMenu
+
+6. Merged bikinis from Bikini Ascend (Orcish and Elven) and Halofarm's Nordic Carved Bikinis
+
+7. Manually hand edited every single breast slider for every single bikini top for higher quality slider morphs. No more nasty bending.
+
+8. Grouped SliderSet files and ShapeData folders respective of their sets (helps save some space)
+
+9. Moved locations of crafting books to avoid conflicts with mods like JK's Skyrim and Open Cities. External patches are no longer needed. New map of book locations made.
+
+10. Added additional 3 crafting books for the Elven, Orcish, and Nordic Carved sets.
+
+11. Cleaned ESP with numerous useless ARMA, WRLD, CELL, FORMID, and STATIC records. Seriously there were a lot of useless and dirty edits Nisetanaka left over.
+
+12. Added SMP cloth physics to the following armors for 3BAv2:
+      a. TAWOBA Wolf Companion Loin Cloth
+      b. Steel Tasset 2A
+      c. Steel Tasset 2B
+      d. Elven Tasset 4
+      e. Iron Tasset 1
+      f. Ebony Skirt
+
+13. Added optional custom high resolution crafting books illustrated by BadHombreReyes and PolarStar
+
+14. Added optional support for Heels Sound on applicable boots.
+
+BUG FIXES:
+
+15. Fixed missing cube maps for the Ebony set
+
+16. Fixed missing cubemaps for the Dwemer set
+
+17. Fixed missing cubemaps for the Elven set
+
+18. Fixed missing cubemaps for the Iron set
+
+19. Fixed missing cubemaps for the Steel set
+
+20. Added cubemaps for the Orchish set
+
+21. Fixed messed up skinning for Elven Gorget 2 and Elven Bikini Bottom 3
+
+22. Fixed messed up skinning for Nordplate Shoulder 4L, 4R, 5L, and 5R
+
+23. Fixed wrong partitions for Nordplate Tasset 1C and Nordplate Skirt 1
+
+24. Fixed double 33 hand paritions for Steel Guantlets 1
+
+25. Fixed exploding body mesh for TAWOBA Dwarven Cyborg I (Normal Physics). Fixed missing zap slider for arms and legs.
+
+26. Updated ARMA records for male equivalent armors to match each theme. Credit: GuyOtherSome
+
+27. Removed Thalmar Hood II from leveled list due to conflicts with the required head slot making male Thalmor headless.
+
+28. Removed the left over clutter from whiterun that caused clipping with mods like JK's Skyrim.
+
+29. Dwemer crafting book will no longer be marked as stolen
+
+30. Added SOS_Revealing keyword to all armors using slot 32 in order to fix naked males bug.
+
+      a. Important note, this fix will require a new save game. Otherwise you will have to manually reset inventory for every NPC you encounter.
+
+31.Removed stray empty cell and worldspace records Credit: GuyOtherSome
+
+32. Removed unused/empty ARMA records Credit: GuyOtherSome
+
+33. Removes two floating logs found in entrance of Riverwood
+
+34. Fixed Dragonbone Gorget I A, B, C not showing up in-game
+
+35. Fixed Dwarven Collar 1 and 2 not showing up in-game
+
+36. Iron Gorget I close, I op, II, III a, III b, III c, IV not showing up in-game
+
+37. Fixed Nord Plate Pauldron IV L, IV R, V L, V R not showing up in-game
+
+38. Fixed Nordic Carved Abs Guard 1, 2 ,3 not showing up in-game
+
+39. Fixed Nordic Carved Tassets I not showing up in-game
+
+40. Removed edits made to Alvor's item inventory
+
+41. Removed Bikiniseman NPC
+
+42. Removed unused tawoba static records
+
+43. Removed random floating doors in Markarth
+
